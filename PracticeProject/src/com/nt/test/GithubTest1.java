@@ -7,10 +7,12 @@ public class GithubTest1 {
 	}
 	
 	
+	
 	public static void main(String[] args) {
 		//System.out.println(sub(6,5));
 		GithubTest1 gt1 = new GithubTest1();
 		System.out.println(gt1);
+		System.out.println(gt1.sub(5, 6));
 	}
 
 }
